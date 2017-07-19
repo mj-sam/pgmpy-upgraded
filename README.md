@@ -1,5 +1,6 @@
 # pgmpy-upgraded
 package upgraded by M.J sameri detail added to package is as below :	
+     
      * estimation:
           *AIC score function
           *Fnml score function 	
